@@ -35,6 +35,6 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=milddrunker&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://hits.sh/github.com/milddrunker.svg?label=Profile%20Views&color=8a2be2&style=flat-square)
   
 </div>
