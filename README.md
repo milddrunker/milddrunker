@@ -1,5 +1,17 @@
 # Hi there! 👋 I'm milddrunker
 
+## Featured Project
+
+### Sherlock Skill
+
+Evidence-backed username research for AI agents. It turns broad search hits
+into reviewable reports with bounded follow-up checks, explicit evidence tiers,
+and privacy-focused operating boundaries.
+
+[Repository](https://github.com/milddrunker/sherlock-skill) ·
+[v0.4.1 Release](https://github.com/milddrunker/sherlock-skill/releases/tag/v0.4.1) ·
+[Documentation](https://github.com/milddrunker/sherlock-skill#readme)
+
 ## 📊 GitHub Analytics
 
 <div align="center">
