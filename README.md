@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  ![milddrunker's GitHub stats](https://github-readme-stats.vercel.app/api?username=milddrunker&show_icons=true&theme=radical&count_private=true)
+  ![milddrunker's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milddrunker&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milddrunker&layout=compact&theme=radical)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milddrunker&theme=radical)
   
 </div>
 
